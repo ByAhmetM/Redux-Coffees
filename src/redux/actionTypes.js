@@ -1,0 +1,5 @@
+export const actionTypes = {
+  FILTER: "FILTER",
+  CHANGE_CATEGORY: "CHANGE_CATEGORY",
+  GET_COFFEES: "GET_COFFEES",
+};
